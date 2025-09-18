@@ -355,7 +355,7 @@
         "gender": "Female",
         "region": "Liyue",
         "rarity": 5,
-        "directory": "https://phoshco.github.io/model-viewer/gi/chars/Hu Tao/Hu Tao",
+        "directory": "gi/chars/Hu Tao/Hu Tao",
         "image": "Genshin/Hu Tao.png",
         "pmx": "胡桃.pmx"
     },
