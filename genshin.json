@@ -8,7 +8,7 @@
         "region": "Mondstadt",
         "rarity": 5,
         "directory": "gi/chars/Albedo",
-        "image": "Genshin/Albedo.png",
+        "image": "gi/Genshin/Albedo.png",
         "pmx": "阿贝多.pmx"
     },
     {
@@ -20,7 +20,7 @@
         "region": "Sumeru",
         "rarity": 5,
         "directory": "gi/chars/Alhaitham/Alhaitham",
-        "image": "Genshin/Alhaitham.png",
+        "image": "gi/Genshin/Alhaitham.png",
         "pmx": "艾尔海森.pmx"
     },
     {
@@ -32,7 +32,7 @@
         "region": "Mondstadt",
         "rarity": 4,
         "directory": "gi/chars/Amber/Amber",
-        "image": "Genshin/Amber.png",
+        "image": "gi/Genshin/Amber.png",
         "pmx": "安柏.pmx"
     },
     {
@@ -44,7 +44,7 @@
         "region": "Inazuma",
         "rarity": 5,
         "directory": "gi/chars/Arataki Itto",
-        "image": "Genshin/Arataki Itto.png",
+        "image": "gi/Genshin/Arataki Itto.png",
         "pmx": "荒泷一斗.pmx"
     },
     {
@@ -56,7 +56,7 @@
         "region": "Snezhnaya",
         "rarity": 5,
         "directory": "gi/chars/Arlecchino",
-        "image": "Genshin/Arlecchino.png",
+        "image": "gi/Genshin/Arlecchino.png",
         "pmx": "仆人.pmx"
     },
     {
@@ -68,7 +68,7 @@
         "region": "Liyue",
         "rarity": 5,
         "directory": "gi/chars/Baizhu",
-        "image": "Genshin/Baizhu.png",
+        "image": "gi/Genshin/Baizhu.png",
         "pmx": "白术.pmx"
     },
     {
@@ -80,7 +80,7 @@
         "region": "Mondstadt",
         "rarity": 4,
         "directory": "gi/chars/Barbara/Barbara",
-        "image": "Genshin/Barbara.png",
+        "image": "gi/Genshin/Barbara.png",
         "pmx": "芭芭拉.pmx"
     },
     {
@@ -92,7 +92,7 @@
         "region": "Liyue",
         "rarity": 4,
         "directory": "gi/chars/Beidou",
-        "image": "Genshin/Beidou.png",
+        "image": "gi/Genshin/Beidou.png",
         "pmx": "北斗.pmx"
     },
     {
@@ -104,7 +104,7 @@
         "region": "Mondstadt",
         "rarity": 4,
         "directory": "gi/chars/Bennett/Bennett",
-        "image": "Genshin/Bennett.png",
+        "image": "gi/Genshin/Bennett.png",
         "pmx": "班尼特.pmx"
     },
     {
@@ -116,7 +116,7 @@
         "region": "Sumeru",
         "rarity": 4,
         "directory": "gi/chars/Candace",
-        "image": "Genshin/Candace.png",
+        "image": "gi/Genshin/Candace.png",
         "pmx": "坎蒂丝.pmx"
     },
     {
@@ -128,7 +128,7 @@
         "region": "Fontaine",
         "rarity": 4,
         "directory": "gi/chars/Charlotte",
-        "image": "Genshin/Charlotte.png",
+        "image": "gi/Genshin/Charlotte.png",
         "pmx": "夏洛蒂.pmx"
     },
     {
@@ -140,7 +140,7 @@
         "region": "Fontaine",
         "rarity": 4,
         "directory": "gi/chars/Chevreuse",
-        "image": "Genshin/Chevreuse.png",
+        "image": "gi/Genshin/Chevreuse.png",
         "pmx": "夏沃蕾.pmx"
     },
     {
@@ -152,7 +152,7 @@
         "region": "Inazuma",
         "rarity": 5,
         "directory": "gi/chars/Chiori",
-        "image": "Genshin/Chiori.png",
+        "image": "gi/Genshin/Chiori.png",
         "pmx": "千织.pmx"
     },
     {
@@ -164,7 +164,7 @@
         "region": "Liyue",
         "rarity": 4,
         "directory": "gi/chars/Chongyun",
-        "image": "Genshin/Chongyun.png",
+        "image": "gi/Genshin/Chongyun.png",
         "pmx": "重云.pmx"
     },
     {
@@ -176,7 +176,7 @@
         "region": "Fontaine",
         "rarity": 5,
         "directory": "gi/chars/Clorinde/Clorinde",
-        "image": "Genshin/Clorinde.png",
+        "image": "gi/Genshin/Clorinde.png",
         "pmx": "克洛琳德.pmx"
     },
     {
@@ -188,7 +188,7 @@
         "region": "Sumeru",
         "rarity": 4,
         "directory": "gi/chars/Collei/Collei",
-        "image": "Genshin/Collei.png",
+        "image": "gi/Genshin/Collei.png",
         "pmx": "柯莱.pmx"
     },
     {
@@ -200,7 +200,7 @@
         "region": "Sumeru",
         "rarity": 5,
         "directory": "gi/chars/Cyno",
-        "image": "Genshin/Cyno.png",
+        "image": "gi/Genshin/Cyno.png",
         "pmx": "赛诺.pmx"
     },
     {
@@ -212,7 +212,7 @@
         "region": "Sumeru",
         "rarity": 5,
         "directory": "gi/chars/Dehya",
-        "image": "Genshin/Dehya.png",
+        "image": "gi/Genshin/Dehya.png",
         "pmx": "迪希雅.pmx"
     },
     {
@@ -224,7 +224,7 @@
         "region": "Mondstadt",
         "rarity": 5,
         "directory": "gi/chars/Diluc/Diluc",
-        "image": "Genshin/Diluc.png",
+        "image": "gi/Genshin/Diluc.png",
         "pmx": "迪卢克.pmx"
     },
     {
@@ -236,7 +236,7 @@
         "region": "Mondstadt",
         "rarity": 4,
         "directory": "gi/chars/Diona",
-        "image": "Genshin/Diona.png",
+        "image": "gi/Genshin/Diona.png",
         "pmx": "迪奥娜.pmx"
     },
     {
@@ -248,7 +248,7 @@
         "region": "Sumeru",
         "rarity": 4,
         "directory": "gi/chars/Dori",
-        "image": "Genshin/Dori.png",
+        "image": "gi/Genshin/Dori.png",
         "pmx": "多莉.pmx"
     },
     {
@@ -260,7 +260,7 @@
         "region": "Mondstadt",
         "rarity": 5,
         "directory": "gi/chars/Eula/Eula",
-        "image": "Genshin/Eula.png",
+        "image": "gi/Genshin/Eula.png",
         "pmx": "优菈.pmx"
     },
     {
@@ -272,7 +272,7 @@
         "region": "Sumeru",
         "rarity": 4,
         "directory": "gi/chars/Faruzan",
-        "image": "Genshin/Faruzan.png",
+        "image": "gi/Genshin/Faruzan.png",
         "pmx": "珐露珊.pmx"
     },
     {
@@ -284,7 +284,7 @@
         "region": "Mondstadt",
         "rarity": 4,
         "directory": "gi/chars/Fischl/Fischl",
-        "image": "Genshin/Fischl.png",
+        "image": "gi/Genshin/Fischl.png",
         "pmx": "菲谢尔.pmx"
     },
     {
@@ -296,7 +296,7 @@
         "region": "Fontaine",
         "rarity": 4,
         "directory": "gi/chars/Freminet",
-        "image": "Genshin/Freminet.png",
+        "image": "gi/Genshin/Freminet.png",
         "pmx": "菲米尼.pmx"
     },
     {
@@ -308,7 +308,7 @@
         "region": "Fontaine",
         "rarity": 5,
         "directory": "gi/chars/Furina/Furina",
-        "image": "Genshin/Furina.png",
+        "image": "gi/Genshin/Furina.png",
         "pmx": "【芙宁娜】.pmx"
     },
     {
@@ -320,7 +320,7 @@
         "region": "Liyue",
         "rarity": 4,
         "directory": "gi/chars/Gaming",
-        "image": "Genshin/Gaming.png",
+        "image": "gi/Genshin/Gaming.png",
         "pmx": "嘉明.pmx"
     },
     {
@@ -332,7 +332,7 @@
         "region": "Liyue",
         "rarity": 5,
         "directory": "gi/chars/Ganyu/Ganyu",
-        "image": "Genshin/Ganyu.png",
+        "image": "gi/Genshin/Ganyu.png",
         "pmx": "甘雨.pmx"
     },
     {
@@ -344,7 +344,7 @@
         "region": "Inazuma",
         "rarity": 4,
         "directory": "gi/chars/Gorou/Gorou",
-        "image": "Genshin/Gorou.png",
+        "image": "gi/Genshin/Gorou.png",
         "pmx": "五郎.pmx"
     },
     {
@@ -356,7 +356,7 @@
         "region": "Liyue",
         "rarity": 5,
         "directory": "gi/chars/Hu Tao/Hu Tao",
-        "image": "Genshin/Hu Tao.png",
+        "image": "gi/Genshin/Hu Tao.png",
         "pmx": "胡桃.pmx"
     },
     {
@@ -368,7 +368,7 @@
         "region": "Mondstadt",
         "rarity": 5,
         "directory": "gi/chars/Jean/Jean",
-        "image": "Genshin/Jean.png",
+        "image": "gi/Genshin/Jean.png",
         "pmx": "琴.pmx"
     },
     {
@@ -380,7 +380,7 @@
         "region": "Inazuma",
         "rarity": 5,
         "directory": "gi/chars/Kaedehara Kazuha",
-        "image": "Genshin/Kaedehara Kazuha.png",
+        "image": "gi/Genshin/Kaedehara Kazuha.png",
         "pmx": "万叶.pmx"
     },
     {
@@ -392,7 +392,7 @@
         "region": "Mondstadt",
         "rarity": 4,
         "directory": "gi/chars/Kaeya/Kaeya",
-        "image": "Genshin/Kaeya.png",
+        "image": "gi/Genshin/Kaeya.png",
         "pmx": "凯亚.pmx"
     },
     {
@@ -404,7 +404,7 @@
         "region": "Inazuma",
         "rarity": 5,
         "directory": "gi/chars/Kamisato Ayaka/Kamisato Ayaka",
-        "image": "Genshin/Kamisato Ayaka.png",
+        "image": "gi/Genshin/Kamisato Ayaka.png",
         "pmx": "神里绫华.pmx"
     },
     {
@@ -416,7 +416,7 @@
         "region": "Inazuma",
         "rarity": 5,
         "directory": "gi/chars/Kamisato Ayato/Kamisato Ayato",
-        "image": "Genshin/Kamisato Ayato.png",
+        "image": "gi/Genshin/Kamisato Ayato.png",
         "pmx": "神里绫人.pmx"
     },
     {
@@ -428,7 +428,7 @@
         "region": "Sumeru",
         "rarity": 4,
         "directory": "gi/chars/Kaveh/Kaveh",
-        "image": "Genshin/Kaveh.png",
+        "image": "gi/Genshin/Kaveh.png",
         "pmx": "卡维.pmx"
     },
     {
@@ -440,7 +440,7 @@
         "region": "Liyue",
         "rarity": 5,
         "directory": "gi/chars/Keqing/Keqing",
-        "image": "Genshin/Keqing.png",
+        "image": "gi/Genshin/Keqing.png",
         "pmx": "刻晴.pmx"
     },
     {
@@ -452,7 +452,7 @@
         "region": "Inazuma",
         "rarity": 4,
         "directory": "gi/chars/Kirara/Kirara",
-        "image": "Genshin/Kirara.png",
+        "image": "gi/Genshin/Kirara.png",
         "pmx": "绮良良.pmx"
     },
     {
@@ -464,7 +464,7 @@
         "region": "Mondstadt",
         "rarity": 5,
         "directory": "gi/chars/Klee/Klee",
-        "image": "Genshin/Klee.png",
+        "image": "gi/Genshin/Klee.png",
         "pmx": "可莉.pmx"
     },
     {
@@ -476,7 +476,7 @@
         "region": "Inazuma",
         "rarity": 4,
         "directory": "gi/chars/Kujou Sara",
-        "image": "Genshin/Kujou Sara.png",
+        "image": "gi/Genshin/Kujou Sara.png",
         "pmx": "九条裟罗.pmx"
     },
     {
@@ -488,7 +488,7 @@
         "region": "Inazuma",
         "rarity": 4,
         "directory": "gi/chars/Kuki Shinobu",
-        "image": "Genshin/Kuki Shinobu.png",
+        "image": "gi/Genshin/Kuki Shinobu.png",
         "pmx": "久岐忍.pmx"
     },
     {
@@ -500,7 +500,7 @@
         "region": "Sumeru",
         "rarity": 4,
         "directory": "gi/chars/Layla",
-        "image": "Genshin/Layla.png",
+        "image": "gi/Genshin/Layla.png",
         "pmx": "莱依拉.pmx"
     },
     {
@@ -512,7 +512,7 @@
         "region": "Mondstadt",
         "rarity": 4,
         "directory": "gi/chars/Lisa/Lisa",
-        "image": "Genshin/Lisa.png",
+        "image": "gi/Genshin/Lisa.png",
         "pmx": "丽莎.pmx"
     },
     {
@@ -524,7 +524,7 @@
         "region": "Fontaine",
         "rarity": 4,
         "directory": "gi/chars/Lynette/Lynette",
-        "image": "Genshin/Lynette.png",
+        "image": "gi/Genshin/Lynette.png",
         "pmx": "【琳妮特】.pmx"
     },
     {
@@ -536,7 +536,7 @@
         "region": "Fontaine",
         "rarity": 5,
         "directory": "gi/chars/Lyney/Lyney",
-        "image": "Genshin/Lyney.png",
+        "image": "gi/Genshin/Lyney.png",
         "pmx": "林尼.pmx"
     },
     {
@@ -548,7 +548,7 @@
         "region": "Mondstadt",
         "rarity": 4,
         "directory": "gi/chars/Mika",
-        "image": "Genshin/Mika.png",
+        "image": "gi/Genshin/Mika.png",
         "pmx": "米卡.pmx"
     },
     {
@@ -560,7 +560,7 @@
         "region": "Mondstadt",
         "rarity": 5,
         "directory": "gi/chars/Mona/Mona",
-        "image": "Genshin/Mona.png",
+        "image": "gi/Genshin/Mona.png",
         "pmx": "莫娜.pmx"
     },
     {
@@ -572,7 +572,7 @@
         "region": "Sumeru",
         "rarity": 5,
         "directory": "gi/chars/Nahida",
-        "image": "Genshin/Nahida.png",
+        "image": "gi/Genshin/Nahida.png",
         "pmx": "纳西妲.pmx"
     },
     {
@@ -584,7 +584,7 @@
         "region": "Fontaine",
         "rarity": 5,
         "directory": "gi/chars/Navia",
-        "image": "Genshin/Navia.png",
+        "image": "gi/Genshin/Navia.png",
         "pmx": "娜维娅.pmx"
     },
     {
@@ -596,7 +596,7 @@
         "region": "Fontaine",
         "rarity": 5,
         "directory": "gi/chars/Neuvillette",
-        "image": "Genshin/Neuvillette.png",
+        "image": "gi/Genshin/Neuvillette.png",
         "pmx": "那维莱特.pmx"
     },
     {
@@ -608,7 +608,7 @@
         "region": "Sumeru",
         "rarity": 5,
         "directory": "gi/chars/Nilou/Nilou",
-        "image": "Genshin/Nilou.png",
+        "image": "gi/Genshin/Nilou.png",
         "pmx": "妮露.pmx"
     },
     {
@@ -620,7 +620,7 @@
         "region": "Liyue",
         "rarity": 4,
         "directory": "gi/chars/Ningguang/Ningguang",
-        "image": "Genshin/Ningguang.png",
+        "image": "gi/Genshin/Ningguang.png",
         "pmx": "凝光.pmx"
     },
     {
@@ -632,7 +632,7 @@
         "region": "Mondstadt",
         "rarity": 4,
         "directory": "gi/chars/Noelle",
-        "image": "Genshin/Noelle.png",
+        "image": "gi/Genshin/Noelle.png",
         "pmx": "诺艾尔.pmx"
     },
     {
@@ -644,7 +644,7 @@
         "region": "Liyue",
         "rarity": 5,
         "directory": "gi/chars/Qiqi/Qiqi",
-        "image": "Genshin/Qiqi.png",
+        "image": "gi/Genshin/Qiqi.png",
         "pmx": "七七.pmx"
     },
     {
@@ -656,7 +656,7 @@
         "region": "Inazuma",
         "rarity": 5,
         "directory": "gi/chars/Raiden Shogun",
-        "image": "Genshin/Raiden Shogun.png",
+        "image": "gi/Genshin/Raiden Shogun.png",
         "pmx": "雷电将军.pmx"
     },
     {
@@ -668,7 +668,7 @@
         "region": "Mondstadt",
         "rarity": 4,
         "directory": "gi/chars/Razor",
-        "image": "Genshin/Razor.png",
+        "image": "gi/Genshin/Razor.png",
         "pmx": "雷泽.pmx"
     },
     {
@@ -680,7 +680,7 @@
         "region": "Mondstadt",
         "rarity": 4,
         "directory": "gi/chars/Rosaria",
-        "image": "Genshin/Rosaria.png",
+        "image": "gi/Genshin/Rosaria.png",
         "pmx": "罗莎莉亚.pmx"
     },
     {
@@ -692,7 +692,7 @@
         "region": "Inazuma",
         "rarity": 5,
         "directory": "gi/chars/Sangonomiya Kokomi/Sangonomiya Kokomi",
-        "image": "Genshin/Sangonomiya Kokomi.png",
+        "image": "gi/Genshin/Sangonomiya Kokomi.png",
         "pmx": "珊瑚宫心海.pmx"
     },
     {
@@ -704,7 +704,7 @@
         "region": "Inazuma",
         "rarity": 4,
         "directory": "gi/chars/Sayu",
-        "image": "Genshin/Sayu.png",
+        "image": "gi/Genshin/Sayu.png",
         "pmx": "早柚.pmx"
     },
     {
@@ -716,7 +716,7 @@
         "region": "Sumeru",
         "rarity": 4,
         "directory": "gi/chars/Sethos",
-        "image": "Genshin/Sethos.png",
+        "image": "gi/Genshin/Sethos.png",
         "pmx": "赛索斯.pmx"
     },
     {
@@ -728,7 +728,7 @@
         "region": "Liyue",
         "rarity": 5,
         "directory": "gi/chars/Shenhe/Shenhe",
-        "image": "Genshin/Shenhe.png",
+        "image": "gi/Genshin/Shenhe.png",
         "pmx": "申鹤.pmx"
     },
     {
@@ -740,7 +740,7 @@
         "region": "Inazuma",
         "rarity": 4,
         "directory": "gi/chars/Shikanoin Heizou",
-        "image": "Genshin/Shikanoin Heizou.png",
+        "image": "gi/Genshin/Shikanoin Heizou.png",
         "pmx": "鹿野院平藏.pmx"
     },
     {
@@ -752,7 +752,7 @@
         "region": "Fontaine",
         "rarity": 5,
         "directory": "gi/chars/Sigewinne/Sigewinne",
-        "image": "Genshin/Sigewinne.png",
+        "image": "gi/Genshin/Sigewinne.png",
         "pmx": "希格雯.pmx"
     },
     {
@@ -764,7 +764,7 @@
         "region": "Mondstadt",
         "rarity": 4,
         "directory": "gi/chars/Sucrose",
-        "image": "Genshin/Sucrose.png",
+        "image": "gi/Genshin/Sucrose.png",
         "pmx": "砂糖.pmx"
     },
     {
@@ -776,7 +776,7 @@
         "region": "Snezhnaya",
         "rarity": 5,
         "directory": "gi/chars/Tartaglia",
-        "image": "Genshin/Tartaglia.png",
+        "image": "gi/Genshin/Tartaglia.png",
         "pmx": "达达利亚.pmx"
     },
     {
@@ -788,7 +788,7 @@
         "region": "Inazuma",
         "rarity": 4,
         "directory": "gi/chars/Thoma",
-        "image": "Genshin/Thoma.png",
+        "image": "gi/Genshin/Thoma.png",
         "pmx": "托马.pmx"
     },
     {
@@ -800,7 +800,7 @@
         "region": "Sumeru",
         "rarity": 5,
         "directory": "gi/chars/Tighnari/Tighnari",
-        "image": "Genshin/Tighnari.png",
+        "image": "gi/Genshin/Tighnari.png",
         "pmx": "提纳里.pmx"
     },
     {
@@ -811,7 +811,7 @@
         "gender": "Male",
         "rarity": 5,
         "directory": "gi/chars/Aether",
-        "image": "Genshin/Aether.png",
+        "image": "gi/Genshin/Aether.png",
         "pmx": "空.pmx"
     },
     {
@@ -822,7 +822,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "gi/chars/Lumine",
-        "image": "Genshin/Lumine.png",
+        "image": "gi/Genshin/Lumine.png",
         "pmx": "荧.pmx"
     },
     {
@@ -834,7 +834,7 @@
         "region": "Mondstadt",
         "rarity": 5,
         "directory": "gi/chars/Venti",
-        "image": "Genshin/Venti.png",
+        "image": "gi/Genshin/Venti.png",
         "pmx": "温迪.pmx"
     },
     {
@@ -846,7 +846,7 @@
         "region": "Sumeru",
         "rarity": 5,
         "directory": "gi/chars/Wanderer/Wanderer",
-        "image": "Genshin/Wanderer.png",
+        "image": "gi/Genshin/Wanderer.png",
         "pmx": "流浪者.pmx"
     },
     {
@@ -858,7 +858,7 @@
         "region": "Fontaine",
         "rarity": 5,
         "directory": "gi/chars/Wriothesley",
-        "image": "Genshin/Wriothesley.png",
+        "image": "gi/Genshin/Wriothesley.png",
         "pmx": "莱欧斯利.pmx"
     },
     {
@@ -870,7 +870,7 @@
         "region": "Liyue",
         "rarity": 4,
         "directory": "gi/chars/Xiangling/Xiangling",
-        "image": "Genshin/Xiangling.png",
+        "image": "gi/Genshin/Xiangling.png",
         "pmx": "香菱.pmx"
     },
     {
@@ -882,7 +882,7 @@
         "region": "Liyue",
         "rarity": 5,
         "directory": "gi/chars/Xianyun",
-        "image": "Genshin/Xianyun.png",
+        "image": "gi/Genshin/Xianyun.png",
         "pmx": "闲云.pmx"
     },
     {
@@ -894,7 +894,7 @@
         "region": "Liyue",
         "rarity": 5,
         "directory": "gi/chars/Xiao",
-        "image": "Genshin/Xiao.png",
+        "image": "gi/Genshin/Xiao.png",
         "pmx": "魈.pmx"
     },
     {
@@ -906,7 +906,7 @@
         "region": "Liyue",
         "rarity": 4,
         "directory": "gi/chars/Xingqiu/Xingqiu",
-        "image": "Genshin/Xingqiu.png",
+        "image": "gi/Genshin/Xingqiu.png",
         "pmx": "行秋.pmx"
     },
     {
@@ -918,7 +918,7 @@
         "region": "Liyue",
         "rarity": 4,
         "directory": "gi/chars/Xinyan",
-        "image": "Genshin/Xinyan.png",
+        "image": "gi/Genshin/Xinyan.png",
         "pmx": "辛焱.pmx"
     },
     {
@@ -930,7 +930,7 @@
         "region": "Inazuma",
         "rarity": 5,
         "directory": "gi/chars/Yae Miko/Yae Miko",
-        "image": "Genshin/Yae Miko.png",
+        "image": "gi/Genshin/Yae Miko.png",
         "pmx": "八重神子.pmx"
     },
     {
@@ -942,7 +942,7 @@
         "region": "Liyue",
         "rarity": 4,
         "directory": "gi/chars/Yanfei",
-        "image": "Genshin/Yanfei.png",
+        "image": "gi/Genshin/Yanfei.png",
         "pmx": "烟绯.pmx"
     },
     {
@@ -954,7 +954,7 @@
         "region": "Liyue",
         "rarity": 4,
         "directory": "gi/chars/Yaoyao",
-        "image": "Genshin/Yaoyao.png",
+        "image": "gi/Genshin/Yaoyao.png",
         "pmx": "瑶瑶.pmx"
     },
     {
@@ -966,7 +966,7 @@
         "region": "Liyue",
         "rarity": 5,
         "directory": "gi/chars/Yelan/Yelan",
-        "image": "Genshin/Yelan.png",
+        "image": "gi/Genshin/Yelan.png",
         "pmx": "夜兰.pmx"
     },
     {
@@ -978,7 +978,7 @@
         "region": "Inazuma",
         "rarity": 5,
         "directory": "gi/chars/Yoimiya",
-        "image": "Genshin/Yoimiya.png",
+        "image": "gi/Genshin/Yoimiya.png",
         "pmx": "宵宫.pmx"
     },
     {
@@ -990,7 +990,7 @@
         "region": "Liyue",
         "rarity": 4,
         "directory": "gi/chars/Yun Jin",
-        "image": "Genshin/Yun Jin.png",
+        "image": "gi/Genshin/Yun Jin.png",
         "pmx": "云堇.pmx"
     },
     {
@@ -1002,7 +1002,7 @@
         "region": "Liyue",
         "rarity": 5,
         "directory": "gi/chars/Zhongli",
-        "image": "Genshin/Zhongli.png",
+        "image": "gi/Genshin/Zhongli.png",
         "pmx": "钟离.pmx"
     },
 	{
@@ -1014,7 +1014,7 @@
         "region": "Fontaine",
         "rarity": 5,
         "directory": "gi/chars/Emilie",
-        "image": "Genshin/Emilie.png",
+        "image": "gi/Genshin/Emilie.png",
         "pmx": "艾梅莉埃.pmx"
     },
 	{
@@ -1026,7 +1026,7 @@
         "region": "Natlan",
         "rarity": 4,
         "directory": "gi/chars/Kachina",
-        "image": "Genshin/Kachina.png",
+        "image": "gi/Genshin/Kachina.png",
         "pmx": "卡齐娜.pmx"
     },
 	{
@@ -1038,7 +1038,7 @@
         "region": "Natlan",
         "rarity": 5,
         "directory": "gi/chars/Mualani",
-        "image": "Genshin/Mualani.png",
+        "image": "gi/Genshin/Mualani.png",
         "pmx": "玛拉妮.pmx"
     },
 	{
@@ -1050,7 +1050,7 @@
         "region": "Natlan",
         "rarity": 5,
         "directory": "gi/chars/Kinich",
-        "image": "Genshin/Kinich.png",
+        "image": "gi/Genshin/Kinich.png",
         "pmx": "基尼奇.pmx"
     },
 	{
@@ -1062,7 +1062,7 @@
         "region": "Natlan",
         "rarity": 5,
         "directory": "gi/chars/Xilonen",
-        "image": "Genshin/Xilonen.png",
+        "image": "gi/Genshin/Xilonen.png",
         "pmx": "希诺宁.pmx"
     },
 	{
@@ -1074,7 +1074,7 @@
         "region": "Natlan",
         "rarity": 4,
         "directory": "gi/chars/Ororon",
-        "image": "Genshin/Ororon.png",
+        "image": "gi/Genshin/Ororon.png",
         "pmx": "Ororon.pmx"
     },
 	{
@@ -1086,7 +1086,7 @@
         "region": "Natlan",
         "rarity": 5,
         "directory": "gi/chars/Chasca",
-        "image": "Genshin/Chasca.png",
+        "image": "gi/Genshin/Chasca.png",
         "pmx": "恰斯卡.pmx"
     },
 	{
@@ -1098,7 +1098,7 @@
         "region": "Natlan",
         "rarity": 5,
         "directory": "gi/chars/Citlali",
-        "image": "Genshin/Citlali.png",
+        "image": "gi/Genshin/Citlali.png",
         "pmx": "茜特拉莉.pmx"
     },
 	{
@@ -1110,7 +1110,7 @@
         "region": "Natlan",
         "rarity": 5,
         "directory": "gi/chars/Mavuika",
-        "image": "Genshin/Mavuika.png",
+        "image": "gi/Genshin/Mavuika.png",
         "pmx": "玛薇卡.pmx"
     },
 	{
@@ -1122,7 +1122,7 @@
         "region": "Liyue",
         "rarity": 4,
         "directory": "gi/chars/Lan Yan",
-        "image": "Genshin/Lan Yan.png",
+        "image": "gi/Genshin/Lan Yan.png",
         "pmx": "蓝砚.pmx"
     },
 	{
@@ -1134,7 +1134,7 @@
         "region": "Inazuma",
         "rarity": 5,
         "directory": "gi/chars/Yumemizuki Mizuki",
-        "image": "Genshin/Yumemizuki Mizuki.png",
+        "image": "gi/Genshin/Yumemizuki Mizuki.png",
         "pmx": "Mizuki.pmx"
     },
 	{
@@ -1146,7 +1146,7 @@
         "region": "Natlan",
         "rarity": 4,
         "directory": "gi/chars/Iansan",
-        "image": "Genshin/Iansan.png",
+        "image": "gi/Genshin/Iansan.png",
         "pmx": "Iansan.pmx"
     },
 	{
@@ -1158,7 +1158,7 @@
         "region": "Natlan",
         "rarity": 5,
         "directory": "gi/chars/Varesa",
-        "image": "Genshin/Varesa.png",
+        "image": "gi/Genshin/Varesa.png",
         "pmx": "Varesa.pmx"
     },
 	{
@@ -1170,7 +1170,7 @@
         "region": "Natlan",
         "rarity": 4,
         "directory": "gi/chars/Ifa",
-        "image": "Genshin/Ifa.png",
+        "image": "gi/Genshin/Ifa.png",
         "pmx": "伊法.pmx"
     },
 	{
@@ -1182,7 +1182,7 @@
         "region": "Fontaine",
         "rarity": 5,
         "directory": "gi/chars/Escoffier",
-        "image": "Genshin/Escoffier.png",
+        "image": "gi/Genshin/Escoffier.png",
         "pmx": "Escoffier.pmx"
     },
 	{
@@ -1194,7 +1194,7 @@
         "region": "Mondstadt",
         "rarity": 4,
         "directory": "gi/chars/Dahlia",
-        "image": "Genshin/Dahlia.png",
+        "image": "gi/Genshin/Dahlia.png",
         "pmx": "塔利雅.pmx"
     },
 	{
@@ -1205,7 +1205,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "gi/chars/Skirk/Skirk",
-        "image": "Genshin/Skirk.png",
+        "image": "gi/Genshin/Skirk.png",
         "pmx": "丝柯克.pmx"
     },
 	{
@@ -1216,7 +1216,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "gi/chars/Ineffa",
-        "image": "Genshin/Ineffa.png",
+        "image": "gi/Genshin/Ineffa.png",
         "pmx": "Ineffa.pmx"
     },
 	{
@@ -1227,7 +1227,7 @@
         "gender": "Female",
         "rarity": 4,
         "directory": "gi/chars/Aino",
-        "image": "Genshin/Aino.png",
+        "image": "gi/Genshin/Aino.png",
         "pmx": "Aino.pmx"
     },
 	{
@@ -1238,7 +1238,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "gi/chars/Lauma",
-        "image": "Genshin/Lauma.png",
+        "image": "gi/Genshin/Lauma.png",
         "pmx": "Lauma.pmx"
     },
 	{
@@ -1249,7 +1249,7 @@
         "gender": "Male",
         "rarity": 5,
         "directory": "gi/chars/Flins",
-        "image": "Genshin/Flins.png",
+        "image": "gi/Genshin/Flins.png",
         "pmx": "Flins.pmx"
     },
 	{
@@ -1260,7 +1260,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "gi/chars/Nefer",
-        "image": "Genshin/Nefer.png",
+        "image": "gi/Genshin/Nefer.png",
         "pmx": "Nefer.pmx"
     },
 	{
@@ -1271,7 +1271,7 @@
         "gender": "Female",
         "rarity": 6,
         "directory": "gi/chars/Jahoda",
-        "image": "Genshin/Jahoda.png",
+        "image": "gi/Genshin/Jahoda.png",
         "pmx": "Jahoda.pmx"
     },
 	{
@@ -1282,7 +1282,7 @@
         "gender": "Female",
         "rarity": 6,
         "directory": "gi/chars/Columbina",
-        "image": "Genshin/Columbina.png",
+        "image": "gi/Genshin/Columbina.png",
         "pmx": "Columbina.pmx"
     },
 	{
@@ -1293,7 +1293,7 @@
         "gender": "Female",
         "rarity": 6,
         "directory": "gi/chars/Sandrone",
-        "image": "Genshin/Sandrone.png",
+        "image": "gi/Genshin/Sandrone.png",
         "pmx": "Sandrone.pmx"
     },
 	{
@@ -1304,7 +1304,7 @@
         "gender": "Male",
         "rarity": 6,
         "directory": "gi/chars/Dainsleif",
-        "image": "Genshin/Dainsleif.png",
+        "image": "gi/Genshin/Dainsleif.png",
         "pmx": "戴因斯雷布.pmx"
     },
     {
@@ -1315,7 +1315,7 @@
         "gender": "Female",
         "rarity": 6,
         "directory": "gi/chars/Asmoday",
-        "image": "Genshin/Asmoday.png",
+        "image": "gi/Genshin/Asmoday.png",
         "pmx": "Asmoday.pmx"
     },
     {
@@ -1326,7 +1326,7 @@
         "gender": "Female",
         "rarity": 6,
         "directory": "gi/chars/Katheryne",
-        "image": "Genshin/Katheryne.png",
+        "image": "gi/Genshin/Katheryne.png",
         "pmx": "Katheryne.pmx"
     },
     {
@@ -1337,7 +1337,7 @@
         "gender": "Female",
         "rarity": 6,
         "directory": "gi/chars/La Signora",
-        "image": "Genshin/La Signora.png",
+        "image": "gi/Genshin/La Signora.png",
         "pmx": "La Signora.pmx"
     },
     {
@@ -1348,7 +1348,7 @@
         "gender": "Female",
         "rarity": 6,
         "directory": "gi/chars/Guizhong",
-        "image": "Genshin/Guizhong.png",
+        "image": "gi/Genshin/Guizhong.png",
         "pmx": "FC式-归终.pmx"
     },
     {
@@ -1359,7 +1359,7 @@
         "gender": "Male",
         "rarity": 6,
         "directory": "gi/chars/Dottore",
-        "image": "Genshin/Dottore.png",
+        "image": "gi/Genshin/Dottore.png",
         "pmx": "Dottore Model.pmx"
     },
 	{
@@ -1370,7 +1370,7 @@
         "gender": "Male",
         "rarity": 6,
         "directory": "gi/chars/Capitano/Capitano",
-        "image": "Genshin/Capitano.png",
+        "image": "gi/Genshin/Capitano.png",
         "pmx": "卡皮塔诺.pmx"
     },
 	{
@@ -1381,7 +1381,7 @@
         "gender": "Male",
         "rarity": 6,
         "directory": "gi/chars/Xbalanque",
-        "image": "Genshin/Xbalanque.png",
+        "image": "gi/Genshin/Xbalanque.png",
         "pmx": "Xbalanque.pmx"
     },
 	{
@@ -1392,7 +1392,7 @@
         "gender": "Female",
         "rarity": 6,
         "directory": "gi/chars/Direidyth",
-        "image": "Genshin/Direidyth.png",
+        "image": "gi/Genshin/Direidyth.png",
         "pmx": "Direidyth.pmx"
     },
 	{
@@ -1403,7 +1403,7 @@
         "gender": "Male",
         "rarity": 6,
         "directory": "gi/chars/Rerir/Rerir",
-        "image": "Genshin/Rerir.png",
+        "image": "gi/Genshin/Rerir.png",
         "pmx": "Rerir.pmx"
     },
 	{
@@ -1414,7 +1414,7 @@
         "gender": "Female",
         "rarity": 5,
         "directory": "gi/chars/Aloy",
-        "image": "Genshin/Aloy.png",
+        "image": "gi/Genshin/Aloy.png",
         "pmx": "Aloy.pmx"
     }
 ]
