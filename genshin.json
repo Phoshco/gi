@@ -1275,6 +1275,28 @@
         "pmx": "Jahoda.pmx"
     },
 	{
+        "id": 10000114,
+        "name": "Durin",
+        "weaponType": "Universal",
+        "element": "Pyro",
+        "gender": "Male",
+        "rarity": 6,
+        "directory": "gi/chars/Durin",
+        "image": "gi/Genshin/Durin.png",
+        "pmx": "Durin.pmx"
+    },
+	{
+        "id": 10000115,
+        "name": "Varka",
+        "weaponType": "Universal",
+        "element": "Anemo",
+        "gender": "Male",
+        "rarity": 6,
+        "directory": "gi/chars/Varka",
+        "image": "gi/Genshin/Varka.png",
+        "pmx": "Varka.pmx"
+    },
+	{
         "id": 10000116,
         "name": "Columbina",
         "weaponType": "Universal",
