@@ -1266,8 +1266,8 @@
 	{
         "id": 10000113,
         "name": "Jahoda",
-        "weaponType": "Universal",
-        "element": "Bow",
+        "weaponType": "Bow",
+        "element": "Anemo",
         "gender": "Female",
         "rarity": 4,
         "directory": "gi/chars/Jahoda",
