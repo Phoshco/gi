@@ -1429,6 +1429,17 @@
         "pmx": "Rerir.pmx"
     },
 	{
+        "id": 1000010,
+        "name": "Tholindis",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "gi/chars/Tholindis",
+        "image": "gi/Genshin/Tholindis.png",
+        "pmx": "Tholindis.bpmx"
+    },
+	{
         "id": 1001000,
         "name": "Aloy",
         "weaponType": "Bow",
