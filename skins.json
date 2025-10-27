@@ -570,5 +570,16 @@
         "directory": "gi/chars/Rerir/Wild Hunt",
         "image": "gi/Genshin/Rerir.png",
         "pmx": "Rerir.pmx"
+    },
+	{
+        "id": 1000099,
+        "name": "Rerir",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Male",
+        "rarity": 6,
+        "directory": "gi/chars/Rerir/Rerir_young",
+        "image": "gi/Genshin/Rerir.png",
+        "pmx": "Rerir.pmx"
     }
 ]
