@@ -1329,6 +1329,28 @@
         "image": "gi/Genshin/Dainsleif.png",
         "pmx": "戴因斯雷布.pmx"
     },
+	{
+        "id": 1005001,
+        "name": "Candlelit Revelry Manekina",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "gi/chars/Candlelit Revelry Manekina/Candlelit Revelry",
+        "image": "gi/Genshin/Miliastra/Candlelit Revelry Manekina.png",
+        "pmx": "Candlelit Revelry.pmx"
+    },
+	{
+        "id": 1005002,
+        "name": "Candlelit Revelry Manekin",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Male",
+        "rarity": 6,
+        "directory": "gi/chars/Candlelit Revelry Manekin/Candlelit Revelry",
+        "image": "gi/Genshin/Miliastra/Candlelit Revelry Manekin.png",
+        "pmx": "Candlelit Revelry.pmx"
+    },
     {
         "id": 1000001,
         "name": "Asmoday",
