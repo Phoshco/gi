@@ -583,7 +583,7 @@
         "pmx": "Rerir.pmx"
     },
 	{
-        "id": 1005001,
+        "id": 1000701,
         "name": "Candlelit Revelry Manekina",
         "weaponType": "Universal",
         "element": "Universal",
@@ -594,7 +594,7 @@
         "pmx": "Candlelit Revelry.pmx"
     },
 	{
-        "id": 1005002,
+        "id": 1000702,
         "name": "Candlelit Revelry Manekin",
         "weaponType": "Universal",
         "element": "Universal",
