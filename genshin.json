@@ -1319,6 +1319,28 @@
         "pmx": "Sandrone.pmx"
     },
 	{
+        "id": 10000118,
+        "name": "Alice",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "gi/chars/Alice",
+        "image": "gi/Genshin/Alice.png",
+        "pmx": "Alice.pmx"
+    },
+	{
+        "id": 10000119,
+        "name": "Nicole Reeyn",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "gi/chars/Nicole Reeyn",
+        "image": "gi/Genshin/Nicole Reeyn.png",
+        "pmx": "Nicole Reeyn.pmx"
+    },
+	{
         "id": 1000000,
         "name": "Dainsleif",
         "weaponType": "Universal",
