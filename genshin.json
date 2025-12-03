@@ -1287,6 +1287,39 @@
     },
 	{
         "id": 10000115,
+        "name": "Illuga",
+        "weaponType": "Polearm",
+        "element": "Geo",
+        "gender": "Male",
+        "rarity": 4,
+        "directory": "gi/chars/Illuga",
+        "image": "gi/Genshin/Illuga.png",
+        "pmx": "Illuga.pmx"
+    },
+	{
+        "id": 10000116,
+        "name": "Zibai",
+        "weaponType": "Sword",
+        "element": "Geo",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "gi/chars/Zibai",
+        "image": "gi/Genshin/Zibai.png",
+        "pmx": "Zibai.pmx"
+    },
+	{
+        "id": 10000117,
+        "name": "Columbina",
+        "weaponType": "Catalyst",
+        "element": "Hydro",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "gi/chars/Columbina",
+        "image": "gi/Genshin/Columbina.png",
+        "pmx": "Columbina.pmx"
+    },
+	{
+        "id": 10000118,
         "name": "Varka",
         "weaponType": "Universal",
         "element": "Anemo",
@@ -1297,18 +1330,7 @@
         "pmx": "Varka.bpmx"
     },
 	{
-        "id": 10000116,
-        "name": "Columbina",
-        "weaponType": "Universal",
-        "element": "Universal",
-        "gender": "Female",
-        "rarity": 6,
-        "directory": "gi/chars/Columbina",
-        "image": "gi/Genshin/Columbina.png",
-        "pmx": "Columbina.pmx"
-    },
-	{
-        "id": 10000117,
+        "id": 10000119,
         "name": "Sandrone",
         "weaponType": "Universal",
         "element": "Universal",
@@ -1319,7 +1341,7 @@
         "pmx": "Sandrone.pmx"
     },
 	{
-        "id": 10000118,
+        "id": 10000120,
         "name": "Alice",
         "weaponType": "Universal",
         "element": "Universal",
@@ -1330,7 +1352,7 @@
         "pmx": "Alice.pmx"
     },
 	{
-        "id": 10000119,
+        "id": 10000121,
         "name": "Nicole Reeyn",
         "weaponType": "Universal",
         "element": "Universal",
