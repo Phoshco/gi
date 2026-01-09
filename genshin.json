@@ -595,7 +595,7 @@
         "gender": "Male",
         "region": "Fontaine",
         "rarity": 5,
-        "directory": "gi/chars/Neuvillette",
+        "directory": "gi/chars/Neuvillette/Neuvillette",
         "image": "gi/Genshin/Neuvillette.png",
         "pmx": "那维莱特.pmx"
     },
@@ -953,7 +953,7 @@
         "gender": "Female",
         "region": "Liyue",
         "rarity": 4,
-        "directory": "gi/chars/Yaoyao",
+        "directory": "gi/chars/Yaoyao/Yaoyao",
         "image": "gi/Genshin/Yaoyao.png",
         "pmx": "瑶瑶.pmx"
     },

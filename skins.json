@@ -603,5 +603,29 @@
         "directory": "gi/chars/Candlelit Revelry Manekin/Candlelit Revelry Ascension",
         "image": "gi/Genshin/Miliastra/Candlelit Revelry Manekin.png",
         "pmx": "Candlelit Revelry.pmx"
+    },
+	{
+        "id": 10000061,
+        "name": "Yaoyao",
+        "weaponType": "Polearm",
+        "element": "Dendro",
+        "gender": "Female",
+        "region": "Liyue",
+        "rarity": 4,
+        "directory": "gi/chars/Yaoyao/YaoyaoOutfit",
+        "image": "gi/Genshin/Yaoyao.png",
+        "pmx": "瑶瑶.pmx"
+    },
+	{
+        "id": 10000071,
+        "name": "Neuvillette",
+        "weaponType": "Catalyst",
+        "element": "Hydro",
+        "gender": "Male",
+        "region": "Fontaine",
+        "rarity": 5,
+        "directory": "gi/chars/Neuvillette/Neuvillette/NeuvilletteOutfit",
+        "image": "gi/Genshin/Neuvillette.png",
+        "pmx": "那维莱特.pmx"
     }
 ]
