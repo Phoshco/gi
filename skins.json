@@ -624,7 +624,7 @@
         "gender": "Male",
         "region": "Fontaine",
         "rarity": 5,
-        "directory": "gi/chars/Neuvillette/Neuvillette/NeuvilletteOutfit",
+        "directory": "gi/chars/Neuvillette/NeuvilletteOutfit",
         "image": "gi/Genshin/Neuvillette.png",
         "pmx": "那维莱特.pmx"
     }
