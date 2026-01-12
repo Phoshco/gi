@@ -657,8 +657,30 @@
         "element": "Universal",
         "gender": "Female",
         "rarity": 5,
-        "directory": "gi/chars/Lumine/Lumine",
+        "directory": "gi/chars/Lumine/Lumine_skin",
         "image": "gi/Genshin/Lumine.png",
         "pmx": "Lumine.pmx"
+    },
+	{
+        "id": 1000911,
+        "name": "Moon Sisters",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "gi/chars/LunarSisters/Lunar2",
+        "image": "gi/Genshin/MoonSisters.png",
+        "pmx": "Lunar2.pmx"
+    },
+	{
+        "id": 1000011,
+        "name": "Moon Sisters",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "gi/chars/LunarSisters/Lunar3",
+        "image": "gi/Genshin/MoonSisters.png",
+        "pmx": "Lunar3.pmx"
     }
 ]

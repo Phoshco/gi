@@ -1506,6 +1506,17 @@
         "pmx": "Tholindis.bpmx"
     },
 	{
+        "id": 1000011,
+        "name": "Moon Sisters",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "gi/chars/LunarSisters/Lunar1",
+        "image": "gi/Genshin/MoonSisters.png",
+        "pmx": "Lunar1.pmx"
+    },
+	{
         "id": 1001000,
         "name": "Aloy",
         "weaponType": "Bow",
