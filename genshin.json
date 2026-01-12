@@ -810,7 +810,7 @@
         "element": "Universal",
         "gender": "Male",
         "rarity": 5,
-        "directory": "gi/chars/Aether",
+        "directory": "gi/chars/Aether/Aether",
         "image": "gi/Genshin/Aether.png",
         "pmx": "空.pmx"
     },
@@ -1446,7 +1446,7 @@
         "element": "Universal",
         "gender": "Male",
         "rarity": 6,
-        "directory": "gi/chars/Dottore",
+        "directory": "gi/chars/Dottore/Dottore",
         "image": "gi/Genshin/Dottore.png",
         "pmx": "Dottore Model.pmx"
     },

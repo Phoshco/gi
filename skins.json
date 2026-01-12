@@ -627,5 +627,38 @@
         "directory": "gi/chars/Neuvillette/NeuvilletteOutfit",
         "image": "gi/Genshin/Neuvillette.png",
         "pmx": "那维莱特.pmx"
+    },
+	{
+        "id": 1000005,
+        "name": "Dottore",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Male",
+        "rarity": 6,
+        "directory": "gi/chars/Dottore/Dottore_boss",
+        "image": "gi/Genshin/Dottore.png",
+        "pmx": "Dottore.pmx"
+    },
+	{
+        "id": 10000000,
+        "name": "Aether",
+        "weaponType": "Sword",
+        "element": "Universal",
+        "gender": "Male",
+        "rarity": 5,
+        "directory": "gi/chars/Aether/Aether_skin",
+        "image": "gi/Genshin/Aether.png",
+        "pmx": "Aether.pmx"
+    },
+	{
+        "id": 10000001,
+        "name": "Lumine",
+        "weaponType": "Sword",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "gi/chars/Lumine/Lumine",
+        "image": "gi/Genshin/Lumine.png",
+        "pmx": "Lumine.pmx"
     }
 ]
