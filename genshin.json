@@ -821,7 +821,7 @@
         "element": "Universal",
         "gender": "Female",
         "rarity": 5,
-        "directory": "gi/chars/Lumine",
+        "directory": "gi/chars/Lumine/Lumine",
         "image": "gi/Genshin/Lumine.png",
         "pmx": "荧.pmx"
     },
