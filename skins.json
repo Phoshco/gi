@@ -682,5 +682,16 @@
         "directory": "gi/chars/LunarSisters/Lunar3",
         "image": "gi/Genshin/MoonSisters.png",
         "pmx": "Lunar3.pmx"
+    },
+	{
+        "id": 10000117,
+        "name": "Columbina",
+        "weaponType": "Catalyst",
+        "element": "Hydro",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "gi/chars/Columbina",
+        "image": "gi/Genshin/Columbina.png",
+        "pmx": "少女.pmx"
     }
 ]
