@@ -1321,16 +1321,27 @@
 	{
         "id": 10000118,
         "name": "Varka",
-        "weaponType": "Universal",
+        "weaponType": "Claymore",
         "element": "Anemo",
         "gender": "Male",
-        "rarity": 6,
+        "rarity": 5,
         "directory": "gi/chars/Varka",
         "image": "gi/Genshin/Varka.png",
         "pmx": "Varka.bpmx"
     },
 	{
         "id": 10000119,
+        "name": "Nicole Reeyn",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "gi/chars/Nicole Reeyn",
+        "image": "gi/Genshin/Nicole Reeyn.png",
+        "pmx": "Nicole Reeyn.pmx"
+    },
+	{
+        "id": 10000122,
         "name": "Sandrone",
         "weaponType": "Universal",
         "element": "Universal",
@@ -1341,7 +1352,7 @@
         "pmx": "Sandrone.pmx"
     },
 	{
-        "id": 10000120,
+        "id": 10000130,
         "name": "Alice",
         "weaponType": "Universal",
         "element": "Universal",
@@ -1350,17 +1361,6 @@
         "directory": "gi/chars/Alice",
         "image": "gi/Genshin/Alice.png",
         "pmx": "Alice.pmx"
-    },
-	{
-        "id": 10000121,
-        "name": "Nicole Reeyn",
-        "weaponType": "Universal",
-        "element": "Universal",
-        "gender": "Female",
-        "rarity": 6,
-        "directory": "gi/chars/Nicole Reeyn",
-        "image": "gi/Genshin/Nicole Reeyn.png",
-        "pmx": "Nicole Reeyn.pmx"
     },
 	{
         "id": 1000000,
