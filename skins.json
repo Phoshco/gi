@@ -693,5 +693,17 @@
         "directory": "gi/chars/Columbina",
         "image": "gi/Genshin/Columbina.png",
         "pmx": "少女.pmx"
+    },
+	{
+        "id": 10000024,
+        "name": "Tartaglia",
+        "weaponType": "Bow",
+        "element": "Hydro",
+        "gender": "Male",
+        "region": "Snezhnaya",
+        "rarity": 5,
+        "directory": "gi/chars/Tartaglia/Boss",
+        "image": "gi/Genshin/Tartaglia.png",
+        "pmx": "Boss.pmx"
     }
 ]

@@ -775,7 +775,7 @@
         "gender": "Male",
         "region": "Snezhnaya",
         "rarity": 5,
-        "directory": "gi/chars/Tartaglia",
+        "directory": "gi/chars/Tartaglia/Tartaglia",
         "image": "gi/Genshin/Tartaglia.png",
         "pmx": "达达利亚.pmx"
     },
