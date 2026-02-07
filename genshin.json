@@ -55,7 +55,7 @@
         "gender": "Female",
         "region": "Snezhnaya",
         "rarity": 5,
-        "directory": "gi/chars/Arlecchino",
+        "directory": "gi/chars/Arlecchino/Arlecchino",
         "image": "gi/Genshin/Arlecchino.png",
         "pmx": "仆人.pmx"
     },
@@ -655,7 +655,7 @@
         "gender": "Female",
         "region": "Inazuma",
         "rarity": 5,
-        "directory": "gi/chars/Raiden Shogun",
+        "directory": "gi/chars/Raiden Shogun/Raiden Shogun",
         "image": "gi/Genshin/Raiden Shogun.png",
         "pmx": "雷电将军.pmx"
     },

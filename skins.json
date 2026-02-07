@@ -705,5 +705,29 @@
         "directory": "gi/chars/Tartaglia/Boss",
         "image": "gi/Genshin/Tartaglia.png",
         "pmx": "Boss.pmx"
+    },
+	{
+        "id": 10000080,
+        "name": "Arlecchino",
+        "weaponType": "Polearm",
+        "element": "Pyro",
+        "gender": "Female",
+        "region": "Snezhnaya",
+        "rarity": 5,
+        "directory": "gi/chars/Arlecchino/Boss",
+        "image": "gi/Genshin/Arlecchino.png",
+        "pmx": "仆人.pmx"
+    },
+	{
+        "id": 10000039,
+        "name": "Raiden Shogun",
+        "weaponType": "Polearm",
+        "element": "Electro",
+        "gender": "Female",
+        "region": "Inazuma",
+        "rarity": 5,
+        "directory": "gi/chars/Raiden Shogun/Boss",
+        "image": "gi/Genshin/Raiden Shogun.png",
+        "pmx": "雷电将军.pmx"
     }
 ]

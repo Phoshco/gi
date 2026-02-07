@@ -1,0 +1,12 @@
+[Info]
+Version = 3
+
+[Effect]
+Obj = none
+Obj[0] = fx\material_default.fx
+Obj[1] = fx\material_default.fx
+Obj[2] = fx\material_default.fx
+Obj[3] = fx\material_default.fx
+Obj[4] = fx\material_default.fx
+Obj[5] = none
+

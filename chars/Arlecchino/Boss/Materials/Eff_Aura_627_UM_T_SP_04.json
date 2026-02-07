@@ -1,0 +1,184 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 2203369123075748560,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BaseTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -4333185213215451837,
+          "Name": "",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 0.15,
+          "Y": 3.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MaskTexture": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -5353196261207674180,
+          "Name": "Eff_Glow_09_Clamp",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.04
+        }
+      },
+      "_MaskTexture02": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NoiseTex01": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": -5579047695125317259,
+          "Name": "",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 0.1,
+          "Y": 3.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_2MaskTexBlendModeToggle": 0.0,
+      "_Alpha": 1.0,
+      "_AlphaBrightness": 10.0,
+      "_AlphaFadeByDistanceToggle": 0.0,
+      "_AlphaFadeDistance": 2.0,
+      "_AlphaFadeOffset": 0.0,
+      "_AlphaSoftedgePower": 1.0,
+      "_AlphaSoftedgeScale": 1.0,
+      "_AlphaSoftedgeToggle": 0.0,
+      "_AlphaSoftedgeTwoSideToggle": 0.0,
+      "_BaseTexAlphaChannelToggle": 1.0,
+      "_BaseTexAlphaScaler": 1.0,
+      "_BaseTexColorChannelToggle": 1.0,
+      "_BaseTex_Uspeed": 0.0,
+      "_BaseTex_Vspeed": -0.15,
+      "_BlendOP": 0.0,
+      "_ColorBrightness": 7.0,
+      "_Cull": 0.0,
+      "_DepthBrightnessColorScale": 1.0,
+      "_DepthBrightnessScale": 1.0,
+      "_DepthBrightnessThrshold": 0.0,
+      "_DepthFade": 1.0,
+      "_DepthThresh": 1.0,
+      "_DistanceInvert": 0.0,
+      "_DstBlendMode": 10.0,
+      "_EffectUberTrans": 0.0,
+      "_EffectedByFog": 0.0,
+      "_EnableDualHeightFog": 0.0,
+      "_ID": 133.0,
+      "_MHYZBias": 0.0,
+      "_MaskTex02ChannelToggle": 1.0,
+      "_MaskTex02Scaler": 1.0,
+      "_MaskTex02_Uspeed": 0.0,
+      "_MaskTex02_Vspeed": 0.0,
+      "_MaskTexBlendModeToggle": 0.0,
+      "_MaskTexChannelToggle": 1.0,
+      "_MaskTexScaler": 1.0,
+      "_MaskTex_Uspeed": 0.0,
+      "_MaskTex_Vspeed": 0.0,
+      "_MotionVectorsAlphaCutoff": 0.1,
+      "_NoiseIntensityOnMask": 0.0,
+      "_NoiseIntensityOnMask02": 0.0,
+      "_NoiseTex01ChannelToggle": 0.0,
+      "_NoiseTex01UVmoveRandomToggle": 0.0,
+      "_NoiseTex01_Uspeed": 0.1,
+      "_NoiseTex01_Vspeed": 0.2,
+      "_NoiseTexToggle": 1.0,
+      "_Noise_Brightness": 11.8,
+      "_Noise_Offset": 0.23,
+      "_PolygonOffsetFactor": 0.0,
+      "_PolygonOffsetUnit": 0.0,
+      "_SComp": 0.0,
+      "_SOFTPARTICLES": 0.0,
+      "_SrcBlendMode": 5.0,
+      "_UmoveRandomToggle": 0.0,
+      "_UseParticleInstancing": 0.0,
+      "_VmoveRandomToggle": 0.0,
+      "_Ztest": 4.0,
+      "_Zwrite": 0.0
+    },
+    "m_Colors": {
+      "_DayColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_DepthBrightnessColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_MainColor": {
+        "r": 1.0,
+        "g": 0.31410784,
+        "b": 0.17647058,
+        "a": 1.0
+      },
+      "_MeshParticleColorArray": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ParticleTexCoord0Array": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ParticleTexCoord1Array": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ParticleUvScale": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Eff_Aura_627_UM_T_SP_04",
+  "Name": "Eff_Aura_627_UM_T_SP_04"
+}
