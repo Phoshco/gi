@@ -1330,7 +1330,18 @@
         "pmx": "Varka.bpmx"
     },
 	{
-        "id": 10000119,
+        "id": 10000118,
+        "name": "Lohen",
+        "weaponType": "Polearm",
+        "element": "Cryo",
+        "gender": "Male",
+        "rarity": 5,
+        "directory": "gi/chars/Lohen",
+        "image": "gi/Genshin/Lohen.png",
+        "pmx": "Lohen.pmx"
+    },
+	{
+        "id": 10000121,
         "name": "Nicole Reeyn",
         "weaponType": "Universal",
         "element": "Universal",
@@ -1515,6 +1526,17 @@
         "directory": "gi/chars/LunarSisters/Lunar1",
         "image": "gi/Genshin/MoonSisters.png",
         "pmx": "Lunar1.pmx"
+    },
+	{
+        "id": 1000012,
+        "name": "Roland",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Male",
+        "rarity": 6,
+        "directory": "gi/chars/LunarSisters/Roland",
+        "image": "gi/Genshin/Roland.png",
+        "pmx": "Roland.pmx"
     },
 	{
         "id": 1001000,
