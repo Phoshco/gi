@@ -1534,7 +1534,7 @@
         "element": "Universal",
         "gender": "Male",
         "rarity": 6,
-        "directory": "gi/chars/LunarSisters/Roland",
+        "directory": "gi/chars/Roland",
         "image": "gi/Genshin/Roland.png",
         "pmx": "Roland.pmx"
     },
