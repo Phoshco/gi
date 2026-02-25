@@ -1331,6 +1331,17 @@
     },
 	{
         "id": 10000119,
+        "name": "Linnea",
+        "weaponType": "Bow",
+        "element": "Geo",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "gi/chars/Linnea",
+        "image": "gi/Genshin/Linnea.png",
+        "pmx": "Linnea.pmx"
+    },
+	{
+        "id": 10000120,
         "name": "Lohen",
         "weaponType": "Polearm",
         "element": "Cryo",
