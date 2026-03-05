@@ -1485,6 +1485,17 @@
     },
 	{
         "id": 1000007,
+        "name": "Melusine",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "gi/chars/Melusine",
+        "image": "gi/Genshin/Melusine.png",
+        "pmx": "Melusine_Blathine.pmx"
+    },
+	{
+        "id": 1000008,
         "name": "Xbalanque",
         "weaponType": "Universal",
         "element": "Universal",
@@ -1495,7 +1506,7 @@
         "pmx": "Xbalanque.pmx"
     },
 	{
-        "id": 1000008,
+        "id": 1000009,
         "name": "Direidyth",
         "weaponType": "Universal",
         "element": "Universal",
@@ -1506,7 +1517,7 @@
         "pmx": "Direidyth.pmx"
     },
 	{
-        "id": 1000009,
+        "id": 1000010,
         "name": "Rerir",
         "weaponType": "Universal",
         "element": "Universal",
@@ -1517,7 +1528,7 @@
         "pmx": "Rerir.pmx"
     },
 	{
-        "id": 1000010,
+        "id": 1000011,
         "name": "Tholindis",
         "weaponType": "Universal",
         "element": "Universal",
@@ -1528,7 +1539,7 @@
         "pmx": "Tholindis.bpmx"
     },
 	{
-        "id": 1000011,
+        "id": 1000012,
         "name": "Moon Sisters",
         "weaponType": "Universal",
         "element": "Universal",
@@ -1539,7 +1550,7 @@
         "pmx": "Lunar1.pmx"
     },
 	{
-        "id": 1000012,
+        "id": 1000013,
         "name": "Roland",
         "weaponType": "Universal",
         "element": "Universal",
