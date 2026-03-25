@@ -729,5 +729,16 @@
         "directory": "gi/chars/Raiden Shogun/Boss",
         "image": "gi/Genshin/Raiden Shogun.png",
         "pmx": "雷电将军.pmx"
+    },
+	{
+        "id": 10000114,
+        "name": "Durin",
+        "weaponType": "Sword",
+        "element": "Pyro",
+        "gender": "Male",
+        "rarity": 5,
+        "directory": "gi/chars/Durin",
+        "image": "gi/Genshin/Durin.png",
+        "pmx": "Durin_wings.pmx"
     }
 ]
