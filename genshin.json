@@ -1580,7 +1580,17 @@
         "rarity": 6,
         "directory": "gi/chars/Celaeno",
         "image": "gi/Genshin/Celaeno.png",
-        "pmx": "Celaeno.pmx"
+    },
+	{
+        "id": 1000015,
+        "name": "Seamus Pegg",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Male",
+        "rarity": 6,
+        "directory": "gi/chars/SeamusPegg",
+        "image": "gi/Genshin/SeamusPegg.png",
+        "pmx": "SeamusPegg.pmx"
     },
 	{
         "id": 1001000,
