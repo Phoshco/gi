@@ -1353,6 +1353,17 @@
     },
 	{
         "id": 10000121,
+        "name": "Prune",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "gi/chars/Prune",
+        "image": "gi/Genshin/Prune.png",
+        "pmx": "Prune.pmx"
+    },
+	{
+        "id": 10000122,
         "name": "Nicole Reeyn",
         "weaponType": "Universal",
         "element": "Universal",
@@ -1363,7 +1374,7 @@
         "pmx": "Nicole Reeyn.pmx"
     },
 	{
-        "id": 10000122,
+        "id": 10000123,
         "name": "Sandrone",
         "weaponType": "Universal",
         "element": "Universal",
@@ -1559,6 +1570,17 @@
         "directory": "gi/chars/Roland",
         "image": "gi/Genshin/Roland.png",
         "pmx": "Roland.pmx"
+    },
+	{
+        "id": 1000014,
+        "name": "Celaeno",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "gi/chars/Celaeno",
+        "image": "gi/Genshin/Celaeno.png",
+        "pmx": "Celaeno.pmx"
     },
 	{
         "id": 1001000,
