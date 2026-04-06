@@ -1580,6 +1580,7 @@
         "rarity": 6,
         "directory": "gi/chars/Celaeno",
         "image": "gi/Genshin/Celaeno.png",
+        "pmx": "Celaeno.pmx"
     },
 	{
         "id": 1000015,
