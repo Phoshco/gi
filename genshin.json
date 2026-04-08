@@ -1354,8 +1354,8 @@
 	{
         "id": 10000121,
         "name": "Prune",
-        "weaponType": "Universal",
-        "element": "Universal",
+        "weaponType": "Catalyst",
+        "element": "Anemo",
         "gender": "Female",
         "rarity": 6,
         "directory": "gi/chars/Prune",

@@ -1,0 +1,8 @@
+[Info]
+Version = 3
+
+[Effect]
+Obj = none
+Obj[14] = normalmap\Body.fx
+Obj[20] = normalmap\Crystal.fx
+
