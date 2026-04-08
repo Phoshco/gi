@@ -1357,7 +1357,7 @@
         "weaponType": "Catalyst",
         "element": "Anemo",
         "gender": "Female",
-        "rarity": 6,
+        "rarity": 4,
         "directory": "gi/chars/Prune",
         "image": "gi/Genshin/Prune.png",
         "pmx": "Prune.pmx"
@@ -1365,10 +1365,10 @@
 	{
         "id": 10000122,
         "name": "Nicole Reeyn",
-        "weaponType": "Universal",
-        "element": "Universal",
+        "weaponType": "Catalyst",
+        "element": "Pyro",
         "gender": "Female",
-        "rarity": 6,
+        "rarity": 5,
         "directory": "gi/chars/Nicole Reeyn",
         "image": "gi/Genshin/Nicole Reeyn.png",
         "pmx": "Nicole Reeyn.pmx"
