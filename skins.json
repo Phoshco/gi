@@ -629,13 +629,24 @@
         "pmx": "那维莱特.pmx"
     },
 	{
-        "id": 1000005,
+        "id": 1000905,
         "name": "Dottore",
         "weaponType": "Universal",
         "element": "Universal",
         "gender": "Male",
         "rarity": 6,
         "directory": "gi/chars/Dottore/Dottore_boss",
+        "image": "gi/Genshin/Dottore.png",
+        "pmx": "Dottore.pmx"
+    },
+	{
+        "id": 1000005,
+        "name": "Dottore",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Male",
+        "rarity": 6,
+        "directory": "gi/chars/Dottore/Dottore_boss_boss",
         "image": "gi/Genshin/Dottore.png",
         "pmx": "Dottore.pmx"
     },
