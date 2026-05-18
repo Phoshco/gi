@@ -1396,6 +1396,17 @@
         "pmx": "Alice.pmx"
     },
 	{
+        "id": 10000131,
+        "name": "Pantalone",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Male",
+        "rarity": 6,
+        "directory": "gi/chars/Pantalone",
+        "image": "gi/Genshin/Pantalone.png",
+        "pmx": "Pantalone.pmx"
+    },
+	{
         "id": 1000000,
         "name": "Dainsleif",
         "weaponType": "Universal",
