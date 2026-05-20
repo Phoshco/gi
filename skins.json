@@ -751,5 +751,16 @@
         "directory": "gi/chars/Durin",
         "image": "gi/Genshin/Durin.png",
         "pmx": "Durin_wings.pmx"
+    },
+	{
+        "id": 10000123,
+        "name": "Sandrone",
+        "weaponType": "Claymore",
+        "element": "Cryo",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "gi/chars/Sandrone/Sandrone_old",
+        "image": "gi/Genshin/Sandrone.png",
+        "pmx": "Sandrone.pmx"
     }
 ]

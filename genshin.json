@@ -1376,11 +1376,11 @@
 	{
         "id": 10000123,
         "name": "Sandrone",
-        "weaponType": "Universal",
-        "element": "Universal",
+        "weaponType": "Claymore",
+        "element": "Cryo",
         "gender": "Female",
-        "rarity": 6,
-        "directory": "gi/chars/Sandrone",
+        "rarity": 5,
+        "directory": "gi/chars/Sandrone/Sandrone",
         "image": "gi/Genshin/Sandrone.png",
         "pmx": "Sandrone.pmx"
     },
