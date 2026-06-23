@@ -762,5 +762,60 @@
         "directory": "gi/chars/Sandrone/Sandrone_old",
         "image": "gi/Genshin/Sandrone.png",
         "pmx": "Sandrone.pmx"
+    },
+	{
+        "id": 1000995,
+        "name": "Saurians",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Universal",
+        "rarity": 6,
+        "directory": "gi/chars/Saurians/Tatankasaurus",
+        "image": "gi/Genshin/Saurians.png",
+        "pmx": "Tatankasaurus_both.pmx"
+    },
+	{
+        "id": 1000999,
+        "name": "Saurians",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Universal",
+        "rarity": 6,
+        "directory": "gi/chars/Saurians/Yumkasaurus",
+        "image": "gi/Genshin/Saurians.png",
+        "pmx": "Yumkasaurus_both.pmx"
+    },
+	{
+        "id": 1000998,
+        "name": "Saurians",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Universal",
+        "rarity": 6,
+        "directory": "gi/chars/Saurians/Koholasaurus",
+        "image": "gi/Genshin/Saurians.png",
+        "pmx": "Koholasaurus_both.pmx"
+    },
+	{
+        "id": 1000997,
+        "name": "Saurians",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Universal",
+        "rarity": 6,
+        "directory": "gi/chars/Saurians/Qucusaur",
+        "image": "gi/Genshin/Saurians.png",
+        "pmx": "Qucusaurus_both.pmx"
+    },
+	{
+        "id": 1000996,
+        "name": "Saurians",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Universal",
+        "rarity": 6,
+        "directory": "gi/chars/Saurians/Iktomisaur",
+        "image": "gi/Genshin/Saurians.png",
+        "pmx": "Iktomisaur_both.pmx"
     }
 ]

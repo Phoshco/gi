@@ -1439,6 +1439,17 @@
         "image": "gi/Genshin/Miliastra/Candlelit Revelry Manekin.png",
         "pmx": "Candlelit Revelry.pmx"
     },
+	{
+        "id": 1000999,
+        "name": "Saurians",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Universal",
+        "rarity": 6,
+        "directory": "gi/chars/Saurians/Teptilasaurus",
+        "image": "gi/Genshin/Saurians.png",
+        "pmx": "Teptilasaurus_both.pmx"
+    },
     {
         "id": 1000001,
         "name": "Asmoday",
