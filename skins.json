@@ -763,6 +763,30 @@
         "image": "gi/Genshin/Sandrone.png",
         "pmx": "Sandrone.pmx"
     },
+    {
+        "id": 10000073,
+        "name": "Charlotte",
+        "weaponType": "Catalyst",
+        "element": "Cryo",
+        "gender": "Female",
+        "region": "Fontaine",
+        "rarity": 4,
+        "directory": "gi/chars/Charlotte/Charlotte_skin",
+        "image": "gi/Genshin/Charlotte.png",
+        "pmx": "夏洛蒂.pmx"
+    },
+	{
+        "id": 10000091,
+        "name": "Citlali",
+        "weaponType": "Catalyst",
+        "element": "Cryo",
+        "gender": "Female",
+        "region": "Natlan",
+        "rarity": 5,
+        "directory": "gi/chars/Citlali/Citlali_skin",
+        "image": "gi/Genshin/Citlali.png",
+        "pmx": "茜特拉莉.pmx"
+    },
 	{
         "id": 1000995,
         "name": "Saurians",

@@ -127,7 +127,7 @@
         "gender": "Female",
         "region": "Fontaine",
         "rarity": 4,
-        "directory": "gi/chars/Charlotte",
+        "directory": "gi/chars/Charlotte/Charlotte",
         "image": "gi/Genshin/Charlotte.png",
         "pmx": "夏洛蒂.pmx"
     },
@@ -1097,7 +1097,7 @@
         "gender": "Female",
         "region": "Natlan",
         "rarity": 5,
-        "directory": "gi/chars/Citlali",
+        "directory": "gi/chars/Citlali/Citlali",
         "image": "gi/Genshin/Citlali.png",
         "pmx": "茜特拉莉.pmx"
     },
