@@ -1385,6 +1385,28 @@
         "pmx": "Sandrone.pmx"
     },
 	{
+        "id": 10000124,
+        "name": "Alyosha",
+        "weaponType": "Polearm",
+        "element": "Electro",
+        "gender": "Male",
+        "rarity": 4,
+        "directory": "gi/chars/Alyosha",
+        "image": "gi/Genshin/Alyosha.png",
+        "pmx": "Alyosha.pmx"
+    },
+	{
+        "id": 10000125,
+        "name": "Odette",
+        "weaponType": "Sword",
+        "element": "Cryo",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "gi/chars/Odette",
+        "image": "gi/Genshin/Odette.png",
+        "pmx": "Odette.pmx"
+    },
+	{
         "id": 10000130,
         "name": "Alice",
         "weaponType": "Universal",
