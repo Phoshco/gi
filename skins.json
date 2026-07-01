@@ -651,7 +651,7 @@
         "pmx": "Dottore.pmx"
     },
 	{
-        "id": 10000000,
+        "id": 10000900,
         "name": "Aether",
         "weaponType": "Sword",
         "element": "Universal",
@@ -662,13 +662,35 @@
         "pmx": "Aether.pmx"
     },
 	{
-        "id": 10000001,
+        "id": 10000000,
+        "name": "Aether",
+        "weaponType": "Sword",
+        "element": "Universal",
+        "gender": "Male",
+        "rarity": 5,
+        "directory": "gi/chars/Aether/AetherShadow",
+        "image": "gi/Genshin/Aether.png",
+        "pmx": "Aether.pmx"
+    },
+	{
+        "id": 10000901,
         "name": "Lumine",
         "weaponType": "Sword",
         "element": "Universal",
         "gender": "Female",
         "rarity": 5,
         "directory": "gi/chars/Lumine/Lumine_skin",
+        "image": "gi/Genshin/Lumine.png",
+        "pmx": "Lumine.pmx"
+    },
+	{
+        "id": 10000001,
+        "name": "Lumine",
+        "weaponType": "Sword",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "gi/chars/Lumine/LumineShadow",
         "image": "gi/Genshin/Lumine.png",
         "pmx": "Lumine.pmx"
     },
