@@ -1407,7 +1407,73 @@
         "pmx": "Odette.pmx"
     },
 	{
+        "id": 10000126,
+        "name": "Valeriy",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Male",
+        "rarity": 6,
+        "directory": "gi/chars/Valeriy",
+        "image": "gi/Genshin/Valeriy.png",
+        "pmx": "Valeriy.pmx"
+    },
+	{
+        "id": 10000127,
+        "name": "Vodyanitsa",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "gi/chars/Vodyanitsa",
+        "image": "gi/Genshin/Vodyanitsa.png",
+        "pmx": "Vodyanitsa.pmx"
+    },
+	{
+        "id": 10000128,
+        "name": "Mitya",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Male",
+        "rarity": 6,
+        "directory": "gi/chars/Mitya",
+        "image": "gi/Genshin/Mitya.png",
+        "pmx": "Mitya.pmx"
+    },
+	{
+        "id": 10000129,
+        "name": "Vesna",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "gi/chars/Vesna",
+        "image": "gi/Genshin/Vesna.png",
+        "pmx": "Vesna.pmx"
+    },
+	{
         "id": 10000130,
+        "name": "Pulcinella",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Male",
+        "rarity": 6,
+        "directory": "gi/chars/Pulcinella",
+        "image": "gi/Genshin/Pulcinella.png",
+        "pmx": "Pulcinella.pmx"
+    },
+	{
+        "id": 10000131,
+        "name": "Pierro",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Male",
+        "rarity": 6,
+        "directory": "gi/chars/Pierro",
+        "image": "gi/Genshin/Pierro.png",
+        "pmx": "Pierro.pmx"
+    },
+	{
+        "id": 10000140,
         "name": "Alice",
         "weaponType": "Universal",
         "element": "Universal",
@@ -1418,7 +1484,7 @@
         "pmx": "Alice.pmx"
     },
 	{
-        "id": 10000131,
+        "id": 10000141,
         "name": "Pantalone",
         "weaponType": "Universal",
         "element": "Universal",
@@ -1647,6 +1713,17 @@
         "directory": "gi/chars/Zeitlind",
         "image": "gi/Genshin/Zeitlind.png",
         "pmx": "Zeitlind.pmx"
+    },
+	{
+        "id": 1000017,
+        "name": "Ronova",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "gi/chars/Ronova",
+        "image": "gi/Genshin/Ronova.png",
+        "pmx": "Ronova.pmx"
     },
 	{
         "id": 1001000,
