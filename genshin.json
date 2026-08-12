@@ -1408,6 +1408,28 @@
     },
 	{
         "id": 10000126,
+        "name": "Vodyanitsa",
+        "weaponType": "Catalyst",
+        "element": "Hydro",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "gi/chars/Vodyanitsa",
+        "image": "gi/Genshin/Vodyanitsa.png",
+        "pmx": "Vodyanitsa.pmx"
+    },
+	{
+        "id": 10000127,
+        "name": "Vesna",
+        "weaponType": "Sword",
+        "element": "Anemo",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "gi/chars/Vesna",
+        "image": "gi/Genshin/Vesna.png",
+        "pmx": "Vesna.pmx"
+    },
+	{
+        "id": 10000128,
         "name": "Valeriy",
         "weaponType": "Universal",
         "element": "Universal",
@@ -1418,18 +1440,7 @@
         "pmx": "Valeriy.pmx"
     },
 	{
-        "id": 10000127,
-        "name": "Vodyanitsa",
-        "weaponType": "Universal",
-        "element": "Universal",
-        "gender": "Female",
-        "rarity": 6,
-        "directory": "gi/chars/Vodyanitsa",
-        "image": "gi/Genshin/Vodyanitsa.png",
-        "pmx": "Vodyanitsa.pmx"
-    },
-	{
-        "id": 10000128,
+        "id": 10000129,
         "name": "Mitya",
         "weaponType": "Universal",
         "element": "Universal",
@@ -1438,17 +1449,6 @@
         "directory": "gi/chars/Mitya",
         "image": "gi/Genshin/Mitya.png",
         "pmx": "Mitya.pmx"
-    },
-	{
-        "id": 10000129,
-        "name": "Vesna",
-        "weaponType": "Universal",
-        "element": "Universal",
-        "gender": "Female",
-        "rarity": 6,
-        "directory": "gi/chars/Vesna",
-        "image": "gi/Genshin/Vesna.png",
-        "pmx": "Vesna.pmx"
     },
 	{
         "id": 10000130,
