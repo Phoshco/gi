@@ -1412,7 +1412,7 @@
         "weaponType": "Catalyst",
         "element": "Hydro",
         "gender": "Female",
-        "rarity": 6,
+        "rarity": 5,
         "directory": "gi/chars/Vodyanitsa",
         "image": "gi/Genshin/Vodyanitsa.png",
         "pmx": "Vodyanitsa.pmx"
