@@ -1726,6 +1726,17 @@
         "pmx": "Ronova.pmx"
     },
 	{
+        "id": 1000018,
+        "name": "Ikhor",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Male",
+        "rarity": 6,
+        "directory": "gi/chars/Ikhor",
+        "image": "gi/Genshin/Ikhor.png",
+        "pmx": "Ikhor.pmx"
+    },
+	{
         "id": 1001000,
         "name": "Aloy",
         "weaponType": "Bow",
