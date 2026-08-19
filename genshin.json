@@ -1737,6 +1737,17 @@
         "pmx": "Ikhor.pmx"
     },
 	{
+        "id": 1000019,
+        "name": "Voywolf Hunter",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "gi/chars/Voywolf Hunter",
+        "image": "gi/Genshin/Voywolf Hunter.png",
+        "pmx": "Voywolf Hunter.pmx"
+    },
+	{
         "id": 1001000,
         "name": "Aloy",
         "weaponType": "Bow",
