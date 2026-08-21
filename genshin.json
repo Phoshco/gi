@@ -1748,6 +1748,17 @@
         "pmx": "Voywolf Hunter.pmx"
     },
 	{
+        "id": 1000020,
+        "name": "Aksinya",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "gi/chars/Aksinya",
+        "image": "gi/Genshin/Aksinya.png",
+        "pmx": "Aksinya.pmx"
+    },
+	{
         "id": 1001000,
         "name": "Aloy",
         "weaponType": "Bow",
