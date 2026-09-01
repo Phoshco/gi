@@ -1716,6 +1716,17 @@
     },
 	{
         "id": 1000017,
+        "name": "Watcher: Fallen Vigil",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Universal",
+        "rarity": 6,
+        "directory": "gi/chars/Watcher",
+        "image": "gi/Genshin/Watcher.png",
+        "pmx": "Watcher.pmx"
+    },
+	{
+        "id": 1000018,
         "name": "Ronova",
         "weaponType": "Universal",
         "element": "Universal",
@@ -1726,7 +1737,7 @@
         "pmx": "Ronova.pmx"
     },
 	{
-        "id": 1000018,
+        "id": 1000019,
         "name": "Ikhor",
         "weaponType": "Universal",
         "element": "Universal",
@@ -1737,7 +1748,7 @@
         "pmx": "Ikhor.pmx"
     },
 	{
-        "id": 1000019,
+        "id": 1000020,
         "name": "Voywolf Hunter",
         "weaponType": "Universal",
         "element": "Universal",
@@ -1748,7 +1759,7 @@
         "pmx": "Voywolf Hunter.pmx"
     },
 	{
-        "id": 1000020,
+        "id": 1000021,
         "name": "Aksinya",
         "weaponType": "Universal",
         "element": "Universal",
