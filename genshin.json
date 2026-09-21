@@ -1430,6 +1430,28 @@
     },
 	{
         "id": 10000128,
+        "name": "Danica",
+        "weaponType": "Claymore",
+        "element": "Electro",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "gi/chars/Danica",
+        "image": "gi/Genshin/Danica.png",
+        "pmx": "Danica.pmx"
+    },
+	{
+        "id": 10000129,
+        "name": "Anastasya",
+        "weaponType": "Bow",
+        "element": "Cryo",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "gi/chars/Anastasya",
+        "image": "gi/Genshin/Anastasya.png",
+        "pmx": "Anastasya.pmx"
+    },
+	{
+        "id": 10000130,
         "name": "Valeriy",
         "weaponType": "Universal",
         "element": "Universal",
@@ -1440,7 +1462,7 @@
         "pmx": "Valeriy.pmx"
     },
 	{
-        "id": 10000129,
+        "id": 10000131,
         "name": "Mitya",
         "weaponType": "Universal",
         "element": "Universal",
@@ -1451,7 +1473,7 @@
         "pmx": "Mitya.pmx"
     },
 	{
-        "id": 10000130,
+        "id": 10000132,
         "name": "Pulcinella",
         "weaponType": "Universal",
         "element": "Universal",
@@ -1462,7 +1484,7 @@
         "pmx": "Pulcinella.pmx"
     },
 	{
-        "id": 10000131,
+        "id": 10000133,
         "name": "Pierro",
         "weaponType": "Universal",
         "element": "Universal",
@@ -1768,6 +1790,17 @@
         "directory": "gi/chars/Aksinya",
         "image": "gi/Genshin/Aksinya.png",
         "pmx": "Aksinya.pmx"
+    },
+	{
+        "id": 1000022,
+        "name": "Rhinedottir",
+        "weaponType": "Universal",
+        "element": "Universal",
+        "gender": "Female",
+        "rarity": 6,
+        "directory": "gi/chars/Rhinedottir",
+        "image": "gi/Genshin/Rhinedottir.png",
+        "pmx": "Rhinedottir.pmx"
     },
 	{
         "id": 1001000,
