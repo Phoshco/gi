@@ -863,5 +863,16 @@
         "directory": "gi/chars/Saurians/Iktomisaur",
         "image": "gi/Genshin/Saurians.png",
         "pmx": "Iktomisaur_both.pmx"
+    },
+	{
+        "id": 10000126,
+        "name": "Vodyanitsa",
+        "weaponType": "Catalyst",
+        "element": "Hydro",
+        "gender": "Female",
+        "rarity": 5,
+        "directory": "gi/chars/Vodyanitsa",
+        "image": "gi/Genshin/Vodyanitsa.png",
+        "pmx": "Vodyanitsa_tail.pmx"
     }
 ]

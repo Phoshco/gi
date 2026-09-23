@@ -1430,6 +1430,28 @@
     },
 	{
         "id": 10000128,
+        "name": "Valeriy",
+        "weaponType": "Sword",
+        "element": "Electro",
+        "gender": "Male",
+        "rarity": 4,
+        "directory": "gi/chars/Valeriy",
+        "image": "gi/Genshin/Valeriy.png",
+        "pmx": "Valeriy.pmx"
+    },
+	{
+        "id": 10000129,
+        "name": "Mitya",
+        "weaponType": "Catalyst",
+        "element": "Electro",
+        "gender": "Male",
+        "rarity": 5,
+        "directory": "gi/chars/Mitya",
+        "image": "gi/Genshin/Mitya.png",
+        "pmx": "Mitya.pmx"
+    },
+	{
+        "id": 10000130,
         "name": "Danica",
         "weaponType": "Claymore",
         "element": "Electro",
@@ -1440,7 +1462,7 @@
         "pmx": "Danica.pmx"
     },
 	{
-        "id": 10000129,
+        "id": 10000131,
         "name": "Anastasya",
         "weaponType": "Bow",
         "element": "Cryo",
@@ -1449,28 +1471,6 @@
         "directory": "gi/chars/Anastasya",
         "image": "gi/Genshin/Anastasya.png",
         "pmx": "Anastasya.pmx"
-    },
-	{
-        "id": 10000130,
-        "name": "Valeriy",
-        "weaponType": "Universal",
-        "element": "Universal",
-        "gender": "Male",
-        "rarity": 6,
-        "directory": "gi/chars/Valeriy",
-        "image": "gi/Genshin/Valeriy.png",
-        "pmx": "Valeriy.pmx"
-    },
-	{
-        "id": 10000131,
-        "name": "Mitya",
-        "weaponType": "Universal",
-        "element": "Universal",
-        "gender": "Male",
-        "rarity": 6,
-        "directory": "gi/chars/Mitya",
-        "image": "gi/Genshin/Mitya.png",
-        "pmx": "Mitya.pmx"
     },
 	{
         "id": 10000132,
